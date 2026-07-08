@@ -2,22 +2,22 @@
 
 Um projeto simples de **footer (rodapé) responsivo** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um **rodapé moderno e responsivo**, ideal para qualquer tipo de site.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Layout responsivo
 - Organização de links e informações
 - Design simples e limpo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador 
